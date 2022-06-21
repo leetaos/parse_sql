@@ -1,0 +1,4 @@
+com\starmaker\udf\SqlParseColName.class
+com\starmaker\udf\SqlParseCondition.class
+com\starmaker\util\SqlParseUtil.class
+com\starmaker\udf\SqlParseTabName.class
